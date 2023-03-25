@@ -1,0 +1,44 @@
+### Windows ###
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+### Linux ###
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+### Principal folder ###
+run.bat
+test.sql
+.vscode/*
+
+### API - Java ###
+api-data/.idea/
+api-data/.mvn/
+api-data/target/
+api-data/HELP.md
+api-data/mvnw
+api-data/mvnw.cmd
+
+### Backend - Node JS/Java ###
+backend/.vscode/*
+backend/node_modules/
+backend/.env
+
+### Frontend - React JS ###
+client/.vscode/*
+client/node_modules/
+client/.env
